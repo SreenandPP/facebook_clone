@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+}
+
+#header {
+    background-color: #3b5998;
+    height: 80px;
+    width: 100%;
+
+}
+
+#fbhead {
+    color: white;
+    position: absolute;
+    left: 78px;
+    top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+label {
+    color: white;
+    position: absolute;
+}
+
+#login {
+    position: absolute;
+    top: 20px;
+    right: 168px;
+}
+
+
+
+
+#create {
+    position: absolute;
+    top: 88px;
+    right: 321px;
+
+}
+
+#create2 {
+    position: absolute;
+    top: 132px;
+    right: 418px;
+}
+
+#moto {
+    position: absolute;
+    top: 97px;
+    left: 83px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#moto2 {
+    position: absolute;
+    top: 122px;
+    left: 83px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#img {
+    height: 300px;
+    width: 600px;
+    position: absolute;
+    top: 211px;
+    left: 78px;
+
+}
+
+.inline1 {
+    display: inline-block;
+    width: 342px;
+    height: 30px;
+    border: 5px;
+    border-radius: 3px;
+
+}
+
+.inlineb {
+    display: inline-block;
+    height: 30px;
+
+    border: 5px;
+    border-radius: 5px;
+}
+
+#info {
+    position: absolute;
+    top: 185px;
+    right: 20px;
+
+}
+
+.dob {
+    color: darkslategray;
+}
+
+
+#createbutton {
+    background-color: yellowgreen;
+    height: 45px;
+    width: 200px;
+    border: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
